@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="edit_text">input a number</string>
+    <string name="convert">convert</string>
+</resources>
